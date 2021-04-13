@@ -1,0 +1,12 @@
+- 
+  remote: https://github.com/Rainboylvx/bookData.git
+  name: rbook
+  cover: ./static/
+- 
+  remote: https://github.com/Rainboylvx/pcs.git
+  name: pcs
+  cover: ./static/
+- 
+  remote: https://github.com/Rainboylvx/blogData
+  name: blog
+  cover: ./static/
